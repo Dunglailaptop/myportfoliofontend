@@ -15,7 +15,7 @@ function Banner() {
         </p>
         <a href="#" className={styles.contactBtn}>Show CV</a>
         </div>
-         <img src="http://localhost:3000/images/1719928506116.jpg" alt="Hero image"
+         <img src="http://localhost:3000/images/NguyenXuanTienDung-1719929305636.jpg" alt="Hero image"
          className={styles.heroImg}
          ></img>
          <div className={styles.topBlur}></div>
